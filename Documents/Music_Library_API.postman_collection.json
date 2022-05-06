@@ -30,6 +30,14 @@
 			"response": []
 		},
 		{
+			"name": "Like_Song",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
 			"name": "Update_Song_By_ID",
 			"request": {
 				"method": "GET",
